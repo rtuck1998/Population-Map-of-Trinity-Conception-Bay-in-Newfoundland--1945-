@@ -68,7 +68,7 @@ var SearchLayer = (function (Control) {
     defaultInputClass.push('search-layer-collapsed');
   }
   input.setAttribute('class', defaultInputClass.join(' '));
-  input.setAttribute('placeholder', 'Search ...');
+  input.setAttribute('placeholder', 'Search by town name ...');
   input.setAttribute('type', 'text');
 
   form.appendChild(input);

@@ -36,7 +36,7 @@ map.addControl(layerSwitcher);
 
     var searchLayer = new SearchLayer({
       layer: lyr_1945_1,
-      colName: 'Pop.',
+      colName: 'Name',
       zoom: 10,
       collapsed: true,
       map: map
