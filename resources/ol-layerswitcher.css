@@ -20,9 +20,9 @@
 .layer-switcher .panel {
     padding: 0 1em 0 0;
     margin: 0;
-    border: 4px solid #eee;
+    border: 4px solid #cc0000;
     border-radius: 4px;
-    background-color: white;
+    background-color: #ff8080;
     display: none;
     max-height: 100%;
     overflow-y: auto;
